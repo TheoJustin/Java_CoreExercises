@@ -1,0 +1,1 @@
+java --module-path ".\JavaFX 16\lib" --add-modules javafx.controls,javafx.fxml,javafx.media -jar TheJCourier.jar

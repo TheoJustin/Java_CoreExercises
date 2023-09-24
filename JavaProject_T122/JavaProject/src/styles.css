@@ -1,0 +1,12 @@
+#pressContain{
+	-fx-background-radius: 10pt;
+}
+
+#pressCapt{
+	-fx-text-fill: white;
+}
+
+#pressCapt:hover{
+	-fx-border-color: white;
+	-fx-border-radius:2pt;
+}

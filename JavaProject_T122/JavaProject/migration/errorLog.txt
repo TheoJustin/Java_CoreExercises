@@ -1,0 +1,1 @@
+ERROR 1007 (HY000) at line 1: Can't create database 'thejcourier'; database exists

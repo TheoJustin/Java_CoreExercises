@@ -1,0 +1,8 @@
+#pressContain{
+	-fx-background-color: rgba(0,0,0,0.5);
+	-fx-background-radius: 10pt;
+}
+
+#pressCapt{
+	-fx-text-fill: white;
+}
